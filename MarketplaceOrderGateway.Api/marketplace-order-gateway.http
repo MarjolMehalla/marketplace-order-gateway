@@ -1,0 +1,6 @@
+@marketplace_order_gateway_HostAddress = http://localhost:5182
+
+GET {{marketplace_order_gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

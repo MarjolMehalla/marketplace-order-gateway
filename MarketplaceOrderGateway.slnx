@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MarketplaceOrderGateway.Application/MarketplaceOrderGateway.Application.csproj" />
+  <Project Path="MarketplaceOrderGateway.Domain/MarketplaceOrderGateway.Domain.csproj" />
+  <Project Path="MarketplaceOrderGateway.Infrastructure/MarketplaceOrderGateway.Infrastructure.csproj" />
+  <Project Path="MarketplaceOrderGateway.Api/MarketplaceOrderGateway.Api.csproj" />
+</Solution>
